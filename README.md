@@ -69,23 +69,15 @@ practical exercises, projects, references, and technical learnings.
 
 <p align="center">
   
-```{=html}
-
-```
 ### 🌱 Keep Learning • Keep Building • Keep Growing
 
 *"Success is the sum of small efforts, repeated day in and day out."*
 
-```{=html}
-```
 </p>
 
 <p align="center">
   
-```{=html}
-```
 `<sub>`{=html}OpsMonsters DevOps Internship • Actively Learning &
 Building`</sub>`{=html}
-```{=html}
-```
+
 </p>

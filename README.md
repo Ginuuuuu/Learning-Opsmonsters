@@ -67,6 +67,8 @@ practical exercises, projects, references, and technical learnings.
 
 ------------------------------------------------------------------------
 
+<div align="center">
+  
 <p align="center">
   
 ### 🌱 Keep Learning • Keep Building • Keep Growing
@@ -75,9 +77,15 @@ practical exercises, projects, references, and technical learnings.
 
 </p>
 
+</div>
+
+<div align="center">
+  
 <p align="center">
   
 `<sub>`{=html}OpsMonsters DevOps Internship • Actively Learning &
 Building`</sub>`{=html}
 
 </p>
+
+</div>

@@ -8,6 +8,8 @@
 
 </div>
 
+<div align="center">
+
 ------------------------------------------------------------------------
 
 ## 👨‍💻 About Me
@@ -18,6 +20,9 @@
 -   🛠️ Documenting my internship learning and practical work
 
 ------------------------------------------------------------------------
+
+</div>
+
 <div align="center">
 
 ## 📚 Learning
@@ -43,6 +48,8 @@
 
 </div>
 
+<div align="center">
+  
 ------------------------------------------------------------------------
 
 ## 🎯 Learning Goals
@@ -67,6 +74,8 @@ practical exercises, projects, references, and technical learnings.
 
 ------------------------------------------------------------------------
 
+</div>
+
 <div align="center">
   
 <p align="center">
@@ -83,8 +92,8 @@ practical exercises, projects, references, and technical learnings.
   
 <p align="center">
   
-`<sub>`{=html}OpsMonsters DevOps Internship • Actively Learning &
-Building`</sub>`{=html}
+OpsMonsters DevOps Internship • Actively Learning &
+Building
 
 </p>
 

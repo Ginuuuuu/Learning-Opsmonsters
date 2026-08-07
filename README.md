@@ -8,8 +8,6 @@
 
 </div>
 
-<div align="center">
-
 ------------------------------------------------------------------------
 
 ## 👨‍💻 About Me
@@ -20,8 +18,6 @@
 -   🛠️ Documenting my internship learning and practical work
 
 ------------------------------------------------------------------------
-
-</div>
 
 <div align="center">
 
@@ -47,8 +43,6 @@
 
 
 </div>
-
-<div align="center">
   
 ------------------------------------------------------------------------
 
@@ -64,6 +58,8 @@
 -   Apply DevOps concepts through practical projects
 
 ------------------------------------------------------------------------
+
+<div align="center">
 
 ## 🧠 Learning Approach
 

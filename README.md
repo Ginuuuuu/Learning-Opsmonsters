@@ -25,23 +25,20 @@
 ```{=html}
 <p align="center">
 ```
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Shell_Scripting-2E7D32?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Scripting">`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Git_%26_GitHub-F4511E?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub">`{=html}`</a>`{=html}
+[![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+[![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-2E7D32?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-F4511E?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-`<br>`{=html}
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Networking](https://img.shields.io/badge/Networking-1565C0?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
 
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Networking-1565C0?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">`{=html}`</a>`{=html}
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Monitoring](https://img.shields.io/badge/Monitoring-546E7A?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
-`<br>`{=html}
-
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Monitoring-546E7A?style=for-the-badge&logo=prometheus&logoColor=white" alt="Monitoring">`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">`{=html}`</a>`{=html}
 
 ```{=html}
 </p>

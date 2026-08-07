@@ -22,9 +22,9 @@
 
 ## 📚 Learning
 
-```{=html}
+
 <p align="center">
-```
+
 [![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 [![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-2E7D32?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-F4511E?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -40,9 +40,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 
-```{=html}
-</p>
-```
+
 </div>
 
 ------------------------------------------------------------------------

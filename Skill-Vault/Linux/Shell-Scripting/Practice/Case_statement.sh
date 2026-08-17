@@ -12,6 +12,10 @@ echo "1. Disk Usage"
 echo "2. Logged user"
 echo "3. Current memory Usage"
 
+
+
+
+
 read option
 
 
